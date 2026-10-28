@@ -1,0 +1,11 @@
+{
+  "org": "napari",
+  "repo": "napari-geojson",
+  "versions": [
+    {
+      "commit": "9afb835059f622ddc1e733ac4bf0240902b51e16",
+      "tag": "v0.1.6",
+      "parsed_at": "2026-10-28T13:18:24.959974+00:00"
+    }
+  ]
+}
