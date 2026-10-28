@@ -1,0 +1,43 @@
+{
+  "manifest_version": "1.0",
+  "org": "napari",
+  "repo": "napari-geojson",
+  "versions": [
+    {
+      "commit": "9afb835059f622ddc1e733ac4bf0240902b51e16",
+      "parsed_at": "2026-10-28T13:16:25.813289+00:00",
+      "tag": "v0.1.6",
+      "filetree": "filetree/9afb835059f622ddc1e733ac4bf0240902b51e16.nq.gz",
+      "blobs": [
+        "blob/3fd079962c60a55d3d795aad0727510903beb489.nq.gz",
+        "blob/da77522b7cf7223450714f35fd3326e798c4ea2f.nq.gz",
+        "blob/3246066353912776e5d90bd36aa166340fe2196d.nq.gz",
+        "blob/8a7054e8afd2b1e5e61f5c89c2743e9ebc0e6ca8.nq.gz",
+        "blob/56f680135d212301e5274e6ad806165704bae082.nq.gz",
+        "blob/727c93686a922b3fe572234ff56ce8682a2eb802.nq.gz",
+        "blob/da12a8d9641b9298226940a6e9e1a8995dffb98e.nq.gz",
+        "blob/2ca81b0b6a4c42444df705cd55237f528788dd91.nq.gz",
+        "blob/0b57db6f45516801fa696a0438073a8c6f9daef1.nq.gz",
+        "blob/7eef76a70a3a0005ab92a40ff43ff6622195e405.nq.gz",
+        "blob/c6dbaa15fc388f632ef97c2c230d0cb0a36d60b4.nq.gz",
+        "blob/04d4946a9b86a5e21890a78a2e80fd3ddeaa5395.nq.gz",
+        "blob/608df43c5ff3f205177cd6eeae5732082ca1d9d1.nq.gz",
+        "blob/6d6fa7d53c7e605b7db36285eb2f9f513a2eb62d.nq.gz",
+        "blob/9d7268ed97246cb3ac5d3c46acf7490114f19fb1.nq.gz",
+        "blob/cd6ccc7ad9f70b61efba1ecd9665234cc7970efe.nq.gz",
+        "blob/564f8df24daed149499d246334905e563159a014.nq.gz",
+        "blob/b2f8a0ed1214ca3c009a528eb8b1dc2ce73d0185.nq.gz",
+        "blob/ec86bc70e6fb8e9f8c4ca6d443c37ccf06ddf2ed.nq.gz",
+        "blob/85aa7ac39e87d59f94aec771222c3810bdd215e2.nq.gz",
+        "blob/763599a8bcb33533c828399bbfdb83bdc2dd7228.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/1d6c076dce351662899df799e47e56485eb4e1c8.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
