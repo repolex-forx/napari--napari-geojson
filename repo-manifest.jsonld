@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/napari/napari-geojson/commit/9afb835059f622ddc1e733ac4bf0240902b51e16",
       "git:hexsha": "9afb835059f622ddc1e733ac4bf0240902b51e16",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.1.6"
     },
     {
